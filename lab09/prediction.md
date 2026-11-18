@@ -1,0 +1,2 @@
+- Tôi nghĩ pretrained Transformer sẽ nhận diện entity tốt hơn baseline vì nó xét ngữ cảnh của từ trong câu, không chỉ dựa vào đặc trưng riêng của token.
+- Tôi nghĩ entity dài và entity hiếm dễ bị sai boundary hoặc bỏ sót hơn vì cần nhận diện đủ các token và có ít dữ liệu để học.
